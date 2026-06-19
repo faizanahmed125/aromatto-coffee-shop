@@ -1,5 +1,7 @@
 # aromatto-coffee-shop
 Designed custom home page based on the inspiration provided by client.
+Preview is uplaoded in repo as well, just click and preview will load.
+Will provide a live preview as well when the site goes live.
 
 - Built using Shopify Liquid sections
 - Modular section-based architecture
@@ -8,5 +10,3 @@ Designed custom home page based on the inspiration provided by client.
 
 Problem: Weak brand identity on default theme
 Solution: Built custom modular homepage with conversion-focused layout
-
-<img width="1920" height="13518" alt="screencapture-aromatto-dev-myshopify-2026-06-19-16_39_49" src="https://github.com/user-attachments/assets/de58dc33-db75-4ced-99f2-37526c96629c" />
